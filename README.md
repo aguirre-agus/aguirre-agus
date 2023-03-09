@@ -1,7 +1,5 @@
-# Hola soy Agustin Aguirre 👾
-
-### 📚 Estudiante en el *BootCamp  Javascript Full-Stack*
-
+#Hola soy Agustín Aguirre
+### 📚 Estudiante en el *BootCamp Javascript Full-Stack*
 
 |    *Comandos*   | *Descripción*   |
 |-----------------|-----------------|
