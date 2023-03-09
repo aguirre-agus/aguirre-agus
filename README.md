@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola soy Agustin Aguirre 👾
 
-<!--
-**aguirre-agus/aguirre-agus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Estudiante en el *BootCamp  Javascript Full-Stack*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|    *Comandos*   | *Descripción*   |
+|-----------------|-----------------|
+|``cl `` | Limpiar linea de codigos |
+|``mv`` | Nos permite mover un archivo |
+|``ls document`` | Lista los archivos de la carpeta |
+|``date`` | Fecha y Hora del Sistema Actual |
+|``cal`` | Muestra calendario de fecha actual |
+|``alias rm=''trash''`` | Evita eliminar permanentemente archivos |
+| ``ls ~/ grep <palabra> `` | Filtra carpetas dada una palabra |
